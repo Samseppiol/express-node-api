@@ -1,0 +1,11 @@
+{
+  "name": "express-links-api",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "author": "SamSeppiol",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
